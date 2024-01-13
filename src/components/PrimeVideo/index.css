@@ -1,0 +1,12 @@
+.prime-container {
+  background-color: #000000;
+  height: 150vh;
+  width: 194vh;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
